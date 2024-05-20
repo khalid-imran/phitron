@@ -1,0 +1,1 @@
+{"name":"Local: A_Add","url":"d:\\phitron\\module15.5\\A_Add.c","tests":[{"id":1714663605770,"input":"5","output":"5"},{"id":1714663613937,"input":"-7","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\phitron\\module15.5\\A_Add.c","group":"local","local":true}

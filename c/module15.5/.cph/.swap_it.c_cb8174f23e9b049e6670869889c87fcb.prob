@@ -1,0 +1,1 @@
+{"name":"Local: swap_it","url":"d:\\phitron\\module15.5\\swap_it.c","tests":[{"id":1714814867087,"input":"10 20","output":"20 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\phitron\\module15.5\\swap_it.c","group":"local","local":true}
