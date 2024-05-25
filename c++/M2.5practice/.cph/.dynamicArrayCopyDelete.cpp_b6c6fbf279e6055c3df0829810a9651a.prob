@@ -1,0 +1,1 @@
+{"name":"Local: dynamicArrayCopyDelete","url":"d:\\phitron\\c++\\M2.5practice1\\dynamicArrayCopyDelete.cpp","tests":[{"id":1716308862964,"input":"5\n1 2 3 4 5\n10\n6 7 8 9 10","output":"1 2 3 4 5 6 7 8 9 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\phitron\\c++\\M2.5practice1\\dynamicArrayCopyDelete.cpp","group":"local","local":true}
