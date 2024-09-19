@@ -11,15 +11,14 @@ class Node {
         this->right = NULL;
     }
 };
-// preorder means print root first then left then right
-void preOrder(Node* root) {
+// inorder means print left first then root then right
+void inOrder(Node* root) {
     if(root ==  NULL) {
         return;
     }
+    inOrder(root->left);
     cout << root->val << " ";
-    preOrder(root->left);
-    preOrder(root->right);
-
+    inOrder(root->right);
 }
 int main() {
     Node* root = new Node(10); 
@@ -43,6 +42,6 @@ int main() {
     d->left = f;
     d->right = g;
     h->right = i;
-    preOrder(root);
+    inOrder(root);
     return 0;
 }
