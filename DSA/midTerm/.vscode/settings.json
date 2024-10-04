@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "sstream": "cpp",
+        "regex": "cpp",
+        "iostream": "cpp",
+        "string": "cpp",
+        "ostream": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "valarray": "cpp",
+        "variant": "cpp",
+        "deque": "cpp",
+        "vector": "cpp"
+    }
+}
