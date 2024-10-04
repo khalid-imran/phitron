@@ -1,0 +1,1 @@
+{"name":"Local: insertMaxHeap","url":"d:\\phitron\\DSA\\module22\\insertMaxHeap.cpp","tests":[{"id":1727146441920,"input":"5\n10 30 40 50 60","output":"60 50 30 10 40"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\phitron\\DSA\\module22\\insertMaxHeap.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: arrayToBst","url":"d:\\phitron\\DSA\\module21\\arrayToBst.cpp","tests":[{"id":1727081964401,"input":"6\n2 5 8 12 15 18","output":"8 2 15 5 12 18 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\phitron\\DSA\\module21\\arrayToBst.cpp","group":"local","local":true}

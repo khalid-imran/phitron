@@ -1,0 +1,1 @@
+{"name":"Local: count_odd","url":"d:\\phitron\\module15.5\\count_odd.c","tests":[{"id":1714812994496,"input":"5\n1 5 4 10 2","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\phitron\\module15.5\\count_odd.c","group":"local","local":true}

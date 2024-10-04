@@ -1,0 +1,1 @@
+{"name":"Local: tigerPathan","url":"d:\\phitron\\c\\final\\tigerPathan.c","tests":[{"id":1715495975509,"input":"3\n5\nTPTPP\n3\nTTP\n4\nTPPT","output":"Pathaan\nTiger\nDraw"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\phitron\\c\\final\\tigerPathan.c","group":"local","local":true}

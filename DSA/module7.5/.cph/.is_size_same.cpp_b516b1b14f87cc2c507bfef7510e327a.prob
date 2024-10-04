@@ -1,0 +1,1 @@
+{"name":"Local: is_size_same","url":"d:\\phitron\\DSA\\module7.5\\is_size_same.cpp","tests":[{"id":1720178390328,"input":"2 1 5 3 4 9 -1\n1 2 3 4 5 6 -1","output":"YES"},{"id":1720178765458,"input":"5 1 4 5 -1\n5 1 4 -1","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\phitron\\DSA\\module7.5\\is_size_same.cpp","group":"local","local":true}
